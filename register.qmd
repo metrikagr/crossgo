@@ -1,0 +1,7 @@
+# Registro
+
+Para crear una cuenta de usuario, debemos ir a [**Metrika Hub**](https://metrikatools.com/hub/) y damos click en **Sign Up.** Luego, damos click en **Join Us,** y rellenamos todos los campos para el registro de usuario.
+
+![](images/signup_metrikahub.png){fig-alt="registro de usuario" fig-align="center"}
+
+Finalmente damos click en **Create an Account,** y tendremos nuestro nuevo usuario registrado.

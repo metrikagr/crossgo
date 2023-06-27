@@ -1,0 +1,9 @@
+# Introduction
+
+Entramos a la página de inicio [Metrika Hub](https://metrikatools.com/hub/),
+
+![](images/welcome_page_img.png)
+
+En la página de inicio nos aparece las herramientas desarrolladas por Métrika, damos click en ***CrossGo***
+
+![Click en el logo](images/CrossGoApp.png){fig-align="center"}
